@@ -86,3 +86,23 @@ Terminate the program
 
 End
 ```
+
+## **Reflection**
+
+### **Summarize the project and what problem it was solving.**
+This project aimed to create a tool for calculating the growth of investments over time, addressing the need for individuals to understand how their investments could grow with and without monthly deposits. It provided a simple yet comprehensive way for users to input their investment details and get projections on their potential returns.
+
+### **What did you do particularly well?**
+I implemented the user input validation and investment calculation logic effectively. The design of the Investment and InvestmentCalculator classes allowed for clean and modular code, making it easy to follow and maintain.
+
+### **Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?**
+I could enhance the code by adding more robust error handling and incorporating unit tests. Improving error handling would make the program more user-friendly and reliable, while unit tests would ensure the correctness and stability of the code, making it easier to maintain and extend in the future.
+
+### **Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?**
+The most challenging part was the calculation of investment growth with monthly deposits, as it required precise handling of compound interest calculations. I overcame this by breaking down the problem into smaller steps and using reliable formulas. I also referred to online resources and documentation to ensure accuracy.
+
+### What skills from this project will be particularly transferable to other projects or course work?
+The skills of modular code design, input validation, and handling user interactions are highly transferable. Additionally, understanding and implementing financial formulas will be useful in other projects that require similar calculations.
+
+### How did you make this program maintainable, readable, and adaptable?
+I made the program maintainable by using clear and descriptive variable names, writing modular code with well-defined classes, and including comments where necessary. The use of classes for Investment and InvestmentCalculator makes the code adaptable, as changes in one part of the program can be made without affecting other parts. The clear structure also aids readability, making it easier for others to understand and contribute to the project.
