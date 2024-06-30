@@ -14,29 +14,50 @@ Reusable classes for Investment and InvestmentCalculator
 
 ## **Project Structure**
 
-The project consists of several key files:
+**The project consists of several key files:**
 
 Cookson Airgead Banking.sln: The solution file for the project.
+
 Cookson Airgead Banking.vcxproj: The project file.
+
 Cookson Airgead Banking.vcxproj.filters: The filters file for organizing the project in Visual Studio.
+
 Cookson Airgead Banking.vcxproj.user: The user-specific project settings file.
+
 Investment.cpp: Implementation file for the Investment class.
+
 Investment.h: Header file for the Investment class.
+
 InvestmentCalculator.cpp: Implementation file for the InvestmentCalculator class.
+
 InvestmentCalculator.h: Header file for the InvestmentCalculator class.
+
 Main.cpp: Main entry point for the application.
+
 PseudocodeProject1.txt: Pseudocode outlining the program flow.
-Getting Started
-Prerequisites
+
+## Getting Started
+
+### Prerequisites
+
 Visual Studio or any compatible C++ development environment.
-Building the Project
+
+### Building the Project
+
 Clone the repository to your local machine.
+
 Open Cookson Airgead Banking.sln in Visual Studio.
+
 Build the solution by selecting Build > Build Solution.
-Running the Application
+
+### Running the Application
+
 After building the project, run the executable generated.
+
 Follow the prompts to enter the initial investment amount, monthly deposit amount, annual interest rate, and number of years to invest.
+
 The application will display the growth of the investment both with and without monthly deposits.
+
 You can choose to enter another set of investment parameters or exit the application.
 
 ## **Classes**
