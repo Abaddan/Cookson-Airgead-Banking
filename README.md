@@ -108,7 +108,7 @@ End
 ## **Reflection**
 
 ### **Summarize the project and what problem it was solving.**
-This project aimed to create a tool for calculating the growth of investments over time, addressing the need for individuals to understand how their investments could grow with and without monthly deposits. It provided a simple yet comprehensive way for users to input their investment details and get projections on their potential returns.
+This projects' objective was to create a tool for calculating the growth of investments over time, addressing the need for individuals to understand how their investments could grow with and without monthly deposits. It provided a simple yet comprehensive way for users to input their investment details and get projections on their potential returns.
 
 ### **What did you do particularly well?**
 I implemented the user input validation and investment calculation logic effectively. The design of the Investment and InvestmentCalculator classes allowed for clean and modular code, making it easy to follow and maintain.
