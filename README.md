@@ -72,7 +72,6 @@ This class performs the calculations for investment growth based on the paramete
 
 ## **Pseudocode**
 
-The program flow is outlined in PseudocodeProject1.txt:
 ```
 Start
 
