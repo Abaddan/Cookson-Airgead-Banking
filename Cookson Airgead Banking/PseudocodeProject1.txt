@@ -1,0 +1,32 @@
+Start
+
+Display welcome message
+
+Repeat:
+    Display prompt for user input: "Please enter the following details:"
+    Prompt user for initial investment amount
+    Validate and store initial investment amount
+    Prompt user for monthly deposit amount
+    Validate and store monthly deposit amount
+    Prompt user for annual interest rate
+    Validate and store annual interest rate
+    Prompt user for number of years to invest
+    Validate and store number of years to invest
+
+    Create an Investment object
+    Set the initial investment amount, monthly deposit amount, annual interest rate, and number of years for the Investment object
+
+    Create an InvestmentCalculator object with the Investment object
+
+    Calculate and display investment growth without monthly deposits
+    Calculate and display investment growth with monthly deposits
+
+    Prompt the user to enter another inquiry
+    If user input is 'Y' or 'y', continue the loop
+    Otherwise, exit the loop
+
+Display goodbye message
+Wait for user to press Enter
+Terminate the program
+
+End
