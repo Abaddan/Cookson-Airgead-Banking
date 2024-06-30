@@ -14,8 +14,6 @@ Reusable classes for Investment and InvestmentCalculator
 
 ## **Project Structure**
 
-**The project consists of several key files:**
-
 Cookson Airgead Banking.sln: The solution file for the project.
 
 Cookson Airgead Banking.vcxproj: The project file.
